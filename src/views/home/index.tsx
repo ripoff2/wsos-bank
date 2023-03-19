@@ -32,8 +32,8 @@ export const HomeView: FC = ({ }) => {
       <div className="md:hero-content flex flex-col">
         <div className='mt-6'>
         <div className='text-sm font-normal align-bottom text-right text-slate-600 mt-4'>v{pkg.version}</div>
-        <h1 className="text-center text-5xl md:pl-12 font-bold text-transparent bg-clip-text bg-gradient-to-br from-indigo-500 to-fuchsia-500 mb-4">
-          Solana Next
+        <h1 className="text-center text-5xl md:pl-12 font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-900 to-emerald-400 mb-4">
+          Wsos
         </h1>
         </div>
         <h4 className="md:w-full text-2x1 md:text-4xl text-center text-slate-300 my-2">
